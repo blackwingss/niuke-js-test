@@ -1,6 +1,3 @@
-链接： https: //www.nowcoder.com/questionTerminal/df4b0b7a459447538351c4c7008b34e7
-  来源： 牛客网
-
 //利用slice
 function truncate(arr) {    
   return arr.slice(0, -1);
